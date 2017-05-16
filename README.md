@@ -6,7 +6,7 @@ You could download it from http://www.bitnami.com.
 
 Requirements
 ------------
-Download and place the Bitnami script on files folder.
+Download and place the Bitnami script under 'files' folder under the role path.
 
 
 Role Variables
