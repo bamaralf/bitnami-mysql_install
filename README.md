@@ -5,7 +5,7 @@ This role install MySQL from Bitnami script.
 You could download it from http://www.bitnami.com.
 Requirements
 ------------
-
+Download and place the Bitnami script on files folder.
 
 
 Role Variables
