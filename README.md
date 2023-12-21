@@ -1,7 +1,7 @@
 Role Name
 =========
 
-This role install MySQL from Bitnami script.
+This role installs MySQL from Bitnami script.
 You could download it from http://www.bitnami.com.
 
 Requirements
